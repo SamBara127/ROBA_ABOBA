@@ -1,0 +1,7 @@
+# Входные параметры
+string last_name
+string name_NANO
+string first_name
+---
+# Выходной параметр
+string full_name
